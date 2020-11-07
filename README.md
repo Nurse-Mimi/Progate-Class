@@ -1,1 +1,0 @@
-I will be taking some classes on Progate, and this repo is to be my practical book. Anything is possible here. Including Mistakes. So, tread carefully. Look through this at your own risk.
